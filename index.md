@@ -19,7 +19,7 @@ While I have catalogued ~75 - 80% of the trees within the area, I still have sig
 <br>
 <br>
 <iframe src="TreeMap.html" height="700" width="700"></iframe> 
-    Common Name Count
+| id |  Common Name |    Count| 
 |---|-------------------|-----|
 |1      |American Elm    |16|
 |2      |American Linden  |4|
