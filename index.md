@@ -19,38 +19,7 @@ While I have catalogued ~75 - 80% of the trees within the area, I still have sig
 <br>
 <br>
 <iframe src="TreeMap.html" height="700" width="700"></iframe> 
-<details>
-<summary>Tree Table</summary>
-<br>
-| Tree                | Count |
-|---------------------|-------|
-| American Elm        | 16    |
-| American Linden     | 4     |
-| American Sycamore   | 2     |
-| Austrian Black Pine | 4     |
-| Balsam Fir          | 2     |
-| Black Cherry        | 9     |
-| Black Oak           | 1     |
-| English Elm         | 3     |
-| European Beech      | 4     |
-| Gingko Biloba       | 6     |
-| Hackberry           | 2     |
-| Hornbeam            | 2     |
-| Horsechestnut       | 3     |
-| London Planetree    | 2     |
-| Northern Red Oak    | 4     |
-| Norway Maple        | 4     |
-| Pin Oak             | 2     |
-| Pitch Pine          | 2     |
-| Red Maple           | 1     |
-| Shagbark Hickory    | 2     |
-| Sugar Maple         | 11    |
-| Swamp White Oak     | 2     |
-| Tulip Tree          | 2     |
-| Tupelo              | 1     |
-| Turkey Oak          | 12    |
-| Willow Oak          | 3     |
-</details>
+
 [1] https://guides.nynhp.org/appalachian-oak-hickory-forest/
 
 [2] https://guides.nynhp.org/appalachian-oak-pine-forest/
