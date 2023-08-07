@@ -19,7 +19,9 @@ While I have catalogued ~75 - 80% of the trees within the area, I still have sig
 <br>
 <br>
 <iframe src="TreeMap.html" height="700" width="700"></iframe> 
-
+<details>
+<summary>Tree Table</summary>
+<br>
 | Tree                | Count |
 |---------------------|-------|
 | American Elm        | 16    |
@@ -48,7 +50,7 @@ While I have catalogued ~75 - 80% of the trees within the area, I still have sig
 | Tupelo              | 1     |
 | Turkey Oak          | 12    |
 | Willow Oak          | 3     |
-
+</details>
 [1] https://guides.nynhp.org/appalachian-oak-hickory-forest/
 
 [2] https://guides.nynhp.org/appalachian-oak-pine-forest/
