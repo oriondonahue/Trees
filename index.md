@@ -19,35 +19,35 @@ While I have catalogued ~75 - 80% of the trees within the area, I still have sig
 <br>
 <br>
 <iframe src="TreeMap.html" height="700" width="700"></iframe> 
-| id |  Common Name |    Count| 
-|---|-------------------|-----|
-|1      |American Elm    |16|
-|2      |American Linden  |4|
-|3    |American Sycamore  |2|
-|4  |Austrian Black Pine  | 4 |
-|5           |Balsam Fir  | 2 |
-|6         |Black Cherry  | 9 |
-|7            |Black Oak  | 1 |
-|8          |English Elm  | 3 |
-|9       |European Beech  | 4 |
-|10              |Gingko  | 6 |
-|11           |Hackberry  | 2 |
-|12            |Hornbeam  | 2 |
-|13       |Horsechestnut  | 3 |
-|14    |London Planetree  | 2 |
-|15    |Northern Red Oak  | 2 |
-|16        |Norway Maple  | 4 |
-|17             |Pin Oak  | 2 |
-|18          |Pitch Pine  | 2 |
-|19           |Red Maple  | 1 |
-|20             |Red Oak  | 2 |
-|21    |Shagbark Hickory  | 2 |
-|22         |Sugar Maple | 11 |
-|23     |Swamp White Oak  | 2 |
-| 24          |Tulip Tree  | 2 |
-| 25              |Tupelo  | 1 |
-| 26          | Turkey Oak | 12 |
-| 27          | Willow Oak |  3 |
+
+| Tree                | Count |
+|---------------------|-------|
+| American Elm        | 16    |
+| American Linden     | 4     |
+| American Sycamore   | 2     |
+| Austrian Black Pine | 4     |
+| Balsam Fir          | 2     |
+| Black Cherry        | 9     |
+| Black Oak           | 1     |
+| English Elm         | 3     |
+| European Beech      | 4     |
+| Gingko Biloba       | 6     |
+| Hackberry           | 2     |
+| Hornbeam            | 2     |
+| Horsechestnut       | 3     |
+| London Planetree    | 2     |
+| Northern Red Oak    | 4     |
+| Norway Maple        | 4     |
+| Pin Oak             | 2     |
+| Pitch Pine          | 2     |
+| Red Maple           | 1     |
+| Shagbark Hickory    | 2     |
+| Sugar Maple         | 11    |
+| Swamp White Oak     | 2     |
+| Tulip Tree          | 2     |
+| Tupelo              | 1     |
+| Turkey Oak          | 12    |
+| Willow Oak          | 3     |
 
 [1] https://guides.nynhp.org/appalachian-oak-hickory-forest/
 
